@@ -2,7 +2,7 @@
 
 ## Project Results Folder
 
-The `Project Results` folder contains the ONLY the results of the project's data analysis.
+The `Project Results` folder contains ONLY the results of the project's data analysis.
 
 ## Visualizations Folder
 
